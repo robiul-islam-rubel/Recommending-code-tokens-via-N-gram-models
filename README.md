@@ -38,7 +38,7 @@ for i in range(1, 1001):
 
 
 ## Prerequisites
-*To save file in the docx format
+* To save file in the docx format
 ~~~python
 pip install python-docx
 ~~~
