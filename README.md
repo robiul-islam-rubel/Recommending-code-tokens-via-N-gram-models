@@ -8,6 +8,7 @@
 - [Data Collection](#data-collection)
 - [Data Pre-processing](#data-pre-processing)
 - [N-gram model](#n-gram-model)
+- [How to run](#how-to-run)
 
 
 ## Prerequisites
@@ -48,6 +49,8 @@ for i in range(1, 1001):
 
 ## N-gram model
 >A word n-gram language model is a purely statistical model of language. It has been superseded by recurrent neural network–based models, which have been superseded by large language models
+
+## How to run
 
 
 
