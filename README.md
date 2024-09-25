@@ -4,7 +4,7 @@
 
 # Table of Contents  
 
-- [Data Collection](#-data-collection)
+- [Data Collection](#data-collection)
 - [Certification](#-certification)
 - [How to Build](#-how-to-build)
 - [Documentation](#-documentation)
