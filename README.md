@@ -6,7 +6,7 @@
 ## Data Collection
 > For every project data collection is a very important part. Researchers spent most of the time to collect the data also pre-process data. In order to collect the data, I used [SEART](https://seart-ghs.si.usi.ch/) website. By using this website anyone can collect any amount of github repositories. For this project, I only choose those repo which has at least **5000** commit. <br>
 > After collecting the repositories, I've saved it in a csv file. After that I used **Python Script** to extract only java code from the repositories and saved all the files into docx file.<br>
-![image](https://github.com/user-attachments/assets/539ba038-f2c0-4271-9e3d-2e37da119c75)
+
 
 
 Example of how I geetting data from the csv file and saved it to word file.
