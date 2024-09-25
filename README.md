@@ -38,6 +38,9 @@ for i in range(1, 1001):
 
 
 ## Prerequisites
+> ~~~python
+pip install something
+~~~
 
 
 
