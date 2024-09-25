@@ -6,6 +6,7 @@
 [Data Collection](#headers) <br> 
 [Data Pre-processing](#emphasis) <br>
 [N-gram model](#ngram)
+[prerequisites](#prerequisites)
 
 
 ## Data Collection
