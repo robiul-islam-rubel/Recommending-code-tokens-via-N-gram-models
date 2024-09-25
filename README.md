@@ -1,6 +1,5 @@
 # Recommending-code-tokens-via-N-gram-models
-> What is N-gram? <br>
-  > An n-gram is a sequence of n consecutive items in a text, such as words, symbols, numbers, or punctuation. N-grams are a fundamental concept in Natural Language Processing (NLP) and are used in many text analytics applications
+> This project is solely based on the assignemt given by the instructor for the course Artificial Inteligence for Software Engineering (CSCI-680-01).
 
 # Table of Contents  
 
