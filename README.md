@@ -5,8 +5,8 @@
 # Table of Contents  
 [Data Collection](#headers) <br> 
 [Data Pre-processing](#emphasis) <br>
-[N-gram model](#ngram)
-[prerequisites](#prerequisites)
+[N-gram model](#ngram)<br>
+[Prerequisites](#prerequisites)
 
 
 ## Data Collection
