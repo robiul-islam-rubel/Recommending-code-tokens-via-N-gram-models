@@ -1,5 +1,6 @@
 # Recommending-code-tokens-via-N-gram-models
-> <style color='red'>This project is solely based on the assignemt given by the instructor for the course Artificial Inteligence for Software Engineering (CSCI-680-01).<style>
+> <p style="color:red;">This project is solely based on the assignment given by the instructor for the course Artificial Intelligence for Software Engineering (CSCI-680-01).</p>
+
 
 # Table of Contents  
 
