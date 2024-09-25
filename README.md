@@ -6,11 +6,9 @@
 
 - [Data Collection](#data-collection)
 - [Data Pre-processing](#data-pre-processing)
-- [How to Build](#-how-to-build)
-- [Documentation](#-documentation)
-- [Feedback and Contributions](#-feedback-and-contributions)
-- [License](#-license)
-- [Contacts](#%EF%B8%8F-contacts)
+- [N-gram model](#n-gram-model)
+- [Prerequisites](#prerequisites)
+
 
 
 ## Data Collection
