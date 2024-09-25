@@ -1,5 +1,5 @@
 # Recommending-code-tokens-via-N-gram-models
-> This project is solely based on the assignemt given by the instructor for the course Artificial Inteligence for Software Engineering (CSCI-680-01).
+> <style color='red'>This project is solely based on the assignemt given by the instructor for the course Artificial Inteligence for Software Engineering (CSCI-680-01).<style>
 
 # Table of Contents  
 
