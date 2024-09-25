@@ -9,7 +9,7 @@
 
 
 
-Example of how I geetting data from the csv file and saved it to word file.
+Example of how I got data from the csv file and saved it to the word file.
 ~~~python
 df = pd.read_csv('results.csv')
 for i in range(1, 1001):
