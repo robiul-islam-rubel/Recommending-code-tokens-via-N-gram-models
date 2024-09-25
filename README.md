@@ -4,11 +4,22 @@
 
 # Table of Contents  
 
+- [Prerequisites](#prerequisites)
 - [Data Collection](#data-collection)
 - [Data Pre-processing](#data-pre-processing)
 - [N-gram model](#n-gram-model)
-- [Prerequisites](#prerequisites)
 
+
+## Prerequisites
+* To save file in the docx format
+~~~python
+pip install python-docx
+~~~
+* To send the request to the server
+  pip install requests
+~~~python
+pip install requests
+~~~
 
 
 ## Data Collection
@@ -39,16 +50,6 @@ for i in range(1, 1001):
 >A word n-gram language model is a purely statistical model of language. It has been superseded by recurrent neural network–based models, which have been superseded by large language models
 
 
-## Prerequisites
-* To save file in the docx format
-~~~python
-pip install python-docx
-~~~
-* To send the request to the server
-  pip install requests
-~~~python
-pip install requests
-~~~
 
 
 
