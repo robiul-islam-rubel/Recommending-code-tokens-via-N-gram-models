@@ -14,8 +14,7 @@
 * Python
   > `python version >=3.10.x`
 * To save file in the docx format
-
-> `pip install python-docx`
+  > `pip install python-docx`
 
 * To send the request to the server
   > `pip install requests`
