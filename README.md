@@ -20,7 +20,7 @@
 * To send the request to the server
   > `pip install requests`
 * Nataral Language Toolkit
-   > 'pip install nltk'
+   > `pip install nltk`
 
 
 
