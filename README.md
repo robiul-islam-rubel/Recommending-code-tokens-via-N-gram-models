@@ -51,7 +51,7 @@ for i in range(1, 1001):
 
 ## How to run
 * Clone the repository
-  > git clone https://github.com/robiul-islam-rubel/Recommending-code-tokens-via-N-gram-models
+  > `git clone https://github.com/robiul-islam-rubel/Recommending-code-tokens-via-N-gram-models`
 * Change directory
    > `cd Recommending-code-tokens-via-N-gram-models`
 
