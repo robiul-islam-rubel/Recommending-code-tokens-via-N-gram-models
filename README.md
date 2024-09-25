@@ -3,10 +3,14 @@
   > An n-gram is a sequence of n consecutive items in a text, such as words, symbols, numbers, or punctuation. N-grams are a fundamental concept in Natural Language Processing (NLP) and are used in many text analytics applications
 
 # Table of Contents  
-[Data Collection](#-data-collection) <br> 
-[Data Pre-processing](#-data-preprocessing) <br>
-[N-gram model](#-n-gram-model)<br>
-[Prerequisites](#-prerequisites)
+## Table of Contents
+- [Data Collection](#-data-collection)
+- [Certification](#-certification)
+- [How to Build](#-how-to-build)
+- [Documentation](#-documentation)
+- [Feedback and Contributions](#-feedback-and-contributions)
+- [License](#-license)
+- [Contacts](#%EF%B8%8F-contacts)
 
 
 ## Data Collection
@@ -51,22 +55,6 @@ pip install requests
 
 
 
-## Table of Contents
-- [About](#-about)
-- [Certification](#-certification)
-- [How to Build](#-how-to-build)
-- [Documentation](#-documentation)
-- [Feedback and Contributions](#-feedback-and-contributions)
-- [License](#-license)
-- [Contacts](#%EF%B8%8F-contacts)
 
-## 🚀 About
 
-**Abblix OIDC Server** is a .NET library designed to provide comprehensive support for OAuth2 and OpenID Connect on the server side. It adheres to high standards of flexibility, reusability, and reliability, utilizing well-known software design patterns, including modular and hexagonal architectures. These patterns ensure the following benefits:
-
-- **Modularity**: Different parts of the library can function independently, enhancing the library's modularity and allowing for easier maintenance and updates.
-- **Testability**: Improved separation of concerns makes the code more testable.
-- **Maintainability**: Clear structure and separation facilitate better management of the codebase.
-
-The library also supports Dependency Injection through the standard .NET DI container, aiding in the organization and management of code. Specifically tailored for seamless integration with ASP.NET WebApi, Abblix OIDC Server employs standard controller classes, binding, and routing mechanisms, simplifying the integration of OpenID Connect into your services.
 
