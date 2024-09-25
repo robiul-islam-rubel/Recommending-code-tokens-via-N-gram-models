@@ -24,6 +24,9 @@ for i in range(1, 1001):
 
 ## Data Pre-processing
 >Data preprocessing is the process of transforming raw data into a format that's easier to analyze and understand. It's a fundamental step in any projects, and is often performed before data analysis or machine learning modeling.
+>![image](https://github.com/user-attachments/assets/539ba038-f2c0-4271-9e3d-2e37da119c75)
+![image](https://github.com/user-attachments/assets/794733a3-df7b-4816-a401-97410c970e7a)
+
 
 
 
