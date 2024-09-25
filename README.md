@@ -42,6 +42,11 @@ for i in range(1, 1001):
 ~~~python
 pip install python-docx
 ~~~
+* To send the request to the server
+  pip install requests
+~~~python
+pip install requests
+~~~
 
 
 
