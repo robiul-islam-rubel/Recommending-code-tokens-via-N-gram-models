@@ -22,5 +22,8 @@ for i in range(1, 1001):
         print(f'Error processing {df.at[i, "name"]}: {e}')
 ~~~
 
+## Data Pre-processing
+>Data preprocessing is the process of transforming raw data into a format that's easier to analyze and understand. It's a fundamental step in any projects, and is often performed before data analysis or machine learning modeling.
+
 
 
