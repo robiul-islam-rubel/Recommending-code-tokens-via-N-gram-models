@@ -3,10 +3,10 @@
   > An n-gram is a sequence of n consecutive items in a text, such as words, symbols, numbers, or punctuation. N-grams are a fundamental concept in Natural Language Processing (NLP) and are used in many text analytics applications
 
 # Table of Contents  
-[Data Collection](#headers) <br> 
-[Data Pre-processing](#emphasis) <br>
-[N-gram model](#ngram)<br>
-[Prerequisites](#prerequisites)
+[Data Collection](#-datacollection) <br> 
+[Data Pre-processing](#-datapreprocessing) <br>
+[N-gram model](#-ngrammodel)<br>
+[Prerequisites](#-prerequisites)
 
 
 ## Data Collection
